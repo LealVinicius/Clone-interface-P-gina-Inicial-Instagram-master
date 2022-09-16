@@ -13,7 +13,9 @@ Projeto realizado na conclusão do módulo 2 - HTML/CSS do Bootcamp Spread FullS
 
 ## 👨🏻‍💻 Aprendizados obtidos
 
-- 
+- Semântica HTML
+- Posicionamento de imagens e ítens em CSS
+- Utilização do FlexBox
 
 ## ✉️ Contato
 - Email: vinicius-leal1999@outlook.com
