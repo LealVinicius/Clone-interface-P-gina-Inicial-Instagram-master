@@ -2,7 +2,7 @@
 
 Projeto realizado na conclusão do módulo 2 - HTML/CSS do Bootcamp Spread FullStack da DIO
 
-![preview](/.github/preview.png)
+![preview](assets/.github/preview.png)
 
 🔗 [Clique aqui para acessar] ()
 
